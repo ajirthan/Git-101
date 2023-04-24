@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 c3b4faf60b58789bfc788e1eeb8867a2a4319a5d Ajirthan <ajirbala28@gmail.com> 1682359768 +0530	commit (initial): create greetings.txt
+c3b4faf60b58789bfc788e1eeb8867a2a4319a5d 722c26a4b40a360fd584a88aa824eee798133d7d Ajirthan <ajirbala28@gmail.com> 1682359790 +0530	commit: add French greeting
+722c26a4b40a360fd584a88aa824eee798133d7d 96d4ccc01986e5fca432f6ba683853fd0b4560b3 Ajirthan <ajirbala28@gmail.com> 1682359799 +0530	commit: add Spanish greeting
+96d4ccc01986e5fca432f6ba683853fd0b4560b3 99d9038663fe07fda2bbe3b95b7388c44b1e5e8a Ajirthan <ajirbala28@gmail.com> 1682359811 +0530	commit: add Russian greeting
+99d9038663fe07fda2bbe3b95b7388c44b1e5e8a 7fcc0e74d28e9f2f52312072fb1e8e6dd0805802 Ajirthan <ajirbala28@gmail.com> 1682359987 +0530	merge fast-forward-merge: Fast-forward
+7fcc0e74d28e9f2f52312072fb1e8e6dd0805802 bf8bfbfafd4b173d2aa97cff8ee91cb8524b1263 Ajirthan <ajirbala28@gmail.com> 1682360129 +0530	commit: create greetings2.txt
+bf8bfbfafd4b173d2aa97cff8ee91cb8524b1263 ec2552046fd28afe5ed80cb75d220d540e3d093b Ajirthan <ajirbala28@gmail.com> 1682360154 +0530	commit: add Korean greeting
+ec2552046fd28afe5ed80cb75d220d540e3d093b 87f1f8917f0804c110f3b285a85669d8d31a2b39 Ajirthan <ajirbala28@gmail.com> 1682360170 +0530	commit: add Arabic greeting
+87f1f8917f0804c110f3b285a85669d8d31a2b39 1cd9437a6696e704c231cbfc0c6ddc029e089609 Ajirthan <ajirbala28@gmail.com> 1682360235 +0530	merge no-conflicts-merge: Merge made by the 'ort' strategy.
+1cd9437a6696e704c231cbfc0c6ddc029e089609 6e5f8e56fff541f37c257feb2256696ff2e07494 Ajirthan <ajirbala28@gmail.com> 1682360347 +0530	commit: delete Korean greeting
+6e5f8e56fff541f37c257feb2256696ff2e07494 a8dd27d5adb91cd54afd8801066580d85075abf0 Ajirthan <ajirbala28@gmail.com> 1682360555 +0530	commit (merge): resolve conflicts
