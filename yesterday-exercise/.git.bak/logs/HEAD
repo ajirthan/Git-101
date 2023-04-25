@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682441653 +0530	clone: from https://github.com/Colt/yesterday-exercise
+f1999595607102cf26305052f642803d39d3a422 485a33962fc19a957cabb54273e99465fdba9c9d Ajirthan <ajirbala28@gmail.com> 1682441769 +0530	checkout: moving from master to HEAD~7
+485a33962fc19a957cabb54273e99465fdba9c9d f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682441807 +0530	checkout: moving from 485a33962fc19a957cabb54273e99465fdba9c9d to master
+f1999595607102cf26305052f642803d39d3a422 cdd927c0bebbef64adf38f8cb58a186d33aaeeab Ajirthan <ajirbala28@gmail.com> 1682441886 +0530	checkout: moving from master to cdd927c
+cdd927c0bebbef64adf38f8cb58a186d33aaeeab cdd927c0bebbef64adf38f8cb58a186d33aaeeab Ajirthan <ajirbala28@gmail.com> 1682441904 +0530	checkout: moving from cdd927c0bebbef64adf38f8cb58a186d33aaeeab to scrambled-eggs
+cdd927c0bebbef64adf38f8cb58a186d33aaeeab f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682441923 +0530	checkout: moving from scrambled-eggs to master
+f1999595607102cf26305052f642803d39d3a422 f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442003 +0530	checkout: moving from master to master
+f1999595607102cf26305052f642803d39d3a422 27a1c28314909a3a2f6921b3adfcf5bac9d0a30b Ajirthan <ajirbala28@gmail.com> 1682442073 +0530	commit: add my own lyrics
+27a1c28314909a3a2f6921b3adfcf5bac9d0a30b 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442099 +0530	commit: add some more lyrics
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442192 +0530	reset: moving to f199959
+f1999595607102cf26305052f642803d39d3a422 f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442205 +0530	reset: moving to HEAD
+f1999595607102cf26305052f642803d39d3a422 f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442220 +0530	reset: moving to f199959
+f1999595607102cf26305052f642803d39d3a422 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442248 +0530	reset: moving to 2e6ba49
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442255 +0530	reset: moving to 2e6ba49
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442276 +0530	reset: moving to 2e6ba49
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442290 +0530	reset: moving to f199959
+f1999595607102cf26305052f642803d39d3a422 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442316 +0530	reset: moving to 2e6ba49
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442336 +0530	reset: moving to HEAD
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a 2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a Ajirthan <ajirbala28@gmail.com> 1682442368 +0530	reset: moving to master
+2e6ba49388ff3e5c0f737c5c96e3ef12dce8148a f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442425 +0530	reset: moving to HEAD~2
+f1999595607102cf26305052f642803d39d3a422 f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442446 +0530	checkout: moving from master to 404
+f1999595607102cf26305052f642803d39d3a422 da2e96dd502c365b878a39bfe7d8a7e040771dc8 Ajirthan <ajirbala28@gmail.com> 1682442470 +0530	commit: add 404 lyrics
+da2e96dd502c365b878a39bfe7d8a7e040771dc8 f1999595607102cf26305052f642803d39d3a422 Ajirthan <ajirbala28@gmail.com> 1682442483 +0530	checkout: moving from 404 to master
