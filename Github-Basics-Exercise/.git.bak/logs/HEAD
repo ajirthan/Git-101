@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 3df1428df7adf6b4e8d4245f348fd5a64590265c Ajirthan <ajirbala28@gmail.com> 1682584268 +0530	commit (initial): first commit
+3df1428df7adf6b4e8d4245f348fd5a64590265c 0000000000000000000000000000000000000000 Ajirthan <ajirbala28@gmail.com> 1682584268 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 3df1428df7adf6b4e8d4245f348fd5a64590265c Ajirthan <ajirbala28@gmail.com> 1682584268 +0530	Branch: renamed refs/heads/master to refs/heads/main
+3df1428df7adf6b4e8d4245f348fd5a64590265c cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682584338 +0530	commit: First Commit
+cae95d989cafb99cae734e991f2a6b84febb5019 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585728 +0530	checkout: moving from main to foods
+cae95d989cafb99cae734e991f2a6b84febb5019 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585744 +0530	checkout: moving from foods to main
+cae95d989cafb99cae734e991f2a6b84febb5019 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585759 +0530	checkout: moving from main to movies
+cae95d989cafb99cae734e991f2a6b84febb5019 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585766 +0530	checkout: moving from movies to foods
+cae95d989cafb99cae734e991f2a6b84febb5019 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585868 +0530	checkout: moving from foods to movies
+cae95d989cafb99cae734e991f2a6b84febb5019 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585882 +0530	checkout: moving from movies to foods
+cae95d989cafb99cae734e991f2a6b84febb5019 917bb5a257385507500570db854050ab5f6f457b Ajirthan <ajirbala28@gmail.com> 1682585914 +0530	commit: add 3 foods
+917bb5a257385507500570db854050ab5f6f457b cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682585918 +0530	checkout: moving from foods to movies
+cae95d989cafb99cae734e991f2a6b84febb5019 5d364f8492c5e4cd747c054f57379ce43bc07513 Ajirthan <ajirbala28@gmail.com> 1682585970 +0530	commit: add 3 movies
+5d364f8492c5e4cd747c054f57379ce43bc07513 cae95d989cafb99cae734e991f2a6b84febb5019 Ajirthan <ajirbala28@gmail.com> 1682586028 +0530	checkout: moving from movies to main
+cae95d989cafb99cae734e991f2a6b84febb5019 917bb5a257385507500570db854050ab5f6f457b Ajirthan <ajirbala28@gmail.com> 1682586037 +0530	merge foods: Fast-forward
+917bb5a257385507500570db854050ab5f6f457b 286bf893ac09ea26c446d4855e0575bffb6f76b5 Ajirthan <ajirbala28@gmail.com> 1682586108 +0530	commit (merge): resolve conflicts
