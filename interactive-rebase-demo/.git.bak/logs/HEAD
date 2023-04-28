@@ -1,0 +1,51 @@
+0000000000000000000000000000000000000000 3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c Ajirthan <ajirbala28@gmail.com> 1682713445 +0530	clone: from github.com:Colt/interactive-rebase-demo.git
+3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c 59e1742ffa19090ba5bed2db193f25bd974bc81d Ajirthan <ajirbala28@gmail.com> 1682714365 +0530	commit (amend): Create README.md
+59e1742ffa19090ba5bed2db193f25bd974bc81d 3843a393a8c3cbbaeee650e83303ae84912d5576 Ajirthan <ajirbala28@gmail.com> 1682714381 +0530	commit (amend): Create README.md
+3843a393a8c3cbbaeee650e83303ae84912d5576 f8fa523cdbe9185492c170028cf8c938abe4fbeb Ajirthan <ajirbala28@gmail.com> 1682714398 +0530	commit (amend): Create README.md
+f8fa523cdbe9185492c170028cf8c938abe4fbeb ef20b790d32a79a4112157b97815c425fb52598c Ajirthan <ajirbala28@gmail.com> 1682714478 +0530	commit (amend): Create README.md
+ef20b790d32a79a4112157b97815c425fb52598c 0e19c7ad4130d9edb45bf5e4d9f4cbdd233dcffc Ajirthan <ajirbala28@gmail.com> 1682714871 +0530	rebase (start): checkout HEAD~9
+0e19c7ad4130d9edb45bf5e4d9f4cbdd233dcffc cbee26b0cfb3a3fe518a69aaec3996dfbef213c2 Ajirthan <ajirbala28@gmail.com> 1682714871 +0530	rebase: fast-forward
+cbee26b0cfb3a3fe518a69aaec3996dfbef213c2 ed6bbb192a0837c843fc47084cb613229726acca Ajirthan <ajirbala28@gmail.com> 1682714871 +0530	rebase (reword): add project files
+ed6bbb192a0837c843fc47084cb613229726acca 7e24a9aad37a6f38baff0441893eec93f8c0f326 Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): add basic HTML boilerplate
+7e24a9aad37a6f38baff0441893eec93f8c0f326 1f43f60c37cc0d8b33d91719e5d4888f7a20e33b Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): add bootstrap
+1f43f60c37cc0d8b33d91719e5d4888f7a20e33b 875ac14ba58d46b41515ed477bc16b86a8ff563f Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): whoops forgot to add bootstrap js script
+875ac14ba58d46b41515ed477bc16b86a8ff563f a6ba17a0f86f635b26d86ec7a79e13d9bcc82f28 Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): add top navbar
+a6ba17a0f86f635b26d86ec7a79e13d9bcc82f28 f3f6ba9b77eac03181969c2eb220ee22ebbfc0ad Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): fix navbar typos
+f3f6ba9b77eac03181969c2eb220ee22ebbfc0ad 6f0c40774ab14d2ca345a7e078db06fe4dfa1ff8 Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): fix another navbar typo
+6f0c40774ab14d2ca345a7e078db06fe4dfa1ff8 4ea4db790414ecfe19c32efc0ad6d290218226ab Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): my cat made this commit
+4ea4db790414ecfe19c32efc0ad6d290218226ab 4b4d0357ef6d3fc3081e614a5277c2a094833292 Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (pick): Create README.md
+4b4d0357ef6d3fc3081e614a5277c2a094833292 4b4d0357ef6d3fc3081e614a5277c2a094833292 Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (finish): returning to refs/heads/main
+4b4d0357ef6d3fc3081e614a5277c2a094833292 1f43f60c37cc0d8b33d91719e5d4888f7a20e33b Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (start): checkout HEAD~9
+1f43f60c37cc0d8b33d91719e5d4888f7a20e33b 87c5d5f209fba5ffc7b0bfecefee140f91b892dd Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (fixup): add bootstrap
+87c5d5f209fba5ffc7b0bfecefee140f91b892dd d65ef196b0ab85e690a52a34ef9aa9cb9bfb5147 Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (pick): add top navbar
+d65ef196b0ab85e690a52a34ef9aa9cb9bfb5147 bfd8bae2d74ef6a9904b82b823b3cdada6e0f493 Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (pick): fix navbar typos
+bfd8bae2d74ef6a9904b82b823b3cdada6e0f493 ea13a1bb1d4064f142d7b9d89c0ca60b14ffb2a0 Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (pick): fix another navbar typo
+ea13a1bb1d4064f142d7b9d89c0ca60b14ffb2a0 af2b5c2e88f0bcde07bab86364b8b5b4fa16ee72 Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (pick): my cat made this commit
+af2b5c2e88f0bcde07bab86364b8b5b4fa16ee72 ccc1896127274f6e053381e4ce030b7ba481853e Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (pick): Create README.md
+ccc1896127274f6e053381e4ce030b7ba481853e ccc1896127274f6e053381e4ce030b7ba481853e Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (finish): returning to refs/heads/main
+ccc1896127274f6e053381e4ce030b7ba481853e d65ef196b0ab85e690a52a34ef9aa9cb9bfb5147 Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (start): checkout HEAD~8
+d65ef196b0ab85e690a52a34ef9aa9cb9bfb5147 c2306fe6320904ac6493bb9b09a992204b0f66ad Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (fixup): # This is a combination of 2 commits.
+c2306fe6320904ac6493bb9b09a992204b0f66ad 952523ca8dd914e21e4570097de355f78d1e7456 Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (fixup): add top navbar
+952523ca8dd914e21e4570097de355f78d1e7456 84aa29a57db688679510ee1d5145061ccd464767 Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (pick): my cat made this commit
+84aa29a57db688679510ee1d5145061ccd464767 8d761837f00f392ff91527777fd0a53795ac3950 Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (pick): Create README.md
+8d761837f00f392ff91527777fd0a53795ac3950 8d761837f00f392ff91527777fd0a53795ac3950 Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (finish): returning to refs/heads/main
+8d761837f00f392ff91527777fd0a53795ac3950 952523ca8dd914e21e4570097de355f78d1e7456 Ajirthan <ajirbala28@gmail.com> 1682715769 +0530	rebase (start): checkout HEAD~2
+952523ca8dd914e21e4570097de355f78d1e7456 be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682715769 +0530	rebase (pick): Create README.md
+be40b10708e376ebba31e16041a48981b1c73513 be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682715769 +0530	rebase (finish): returning to refs/heads/main
+be40b10708e376ebba31e16041a48981b1c73513 be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682715994 +0530	checkout: moving from main to my-feat
+be40b10708e376ebba31e16041a48981b1c73513 be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682716013 +0530	checkout: moving from my-feat to main
+be40b10708e376ebba31e16041a48981b1c73513 ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716033 +0530	pull: Merge made by the 'ort' strategy.
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682716088 +0530	checkout: moving from main to my-feat
+be40b10708e376ebba31e16041a48981b1c73513 ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716093 +0530	rebase (start): checkout main
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716093 +0530	rebase (finish): returning to refs/heads/my-feat
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716124 +0530	checkout: moving from my-feat to main
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716150 +0530	reset: moving to HEAD
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682716184 +0530	rebase (start): checkout HEAD~1
+be40b10708e376ebba31e16041a48981b1c73513 ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716205 +0530	rebase (abort): returning to refs/heads/main
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682716226 +0530	rebase (start): checkout HEAD~6
+be40b10708e376ebba31e16041a48981b1c73513 ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716243 +0530	rebase (abort): returning to refs/heads/main
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d 3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c Ajirthan <ajirbala28@gmail.com> 1682716359 +0530	reset: moving to origin/main
+3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716390 +0530	checkout: moving from main to my-feat
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716434 +0530	checkout: moving from my-feat to my-feat
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d 3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c Ajirthan <ajirbala28@gmail.com> 1682716440 +0530	checkout: moving from my-feat to main
+3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716445 +0530	merge my-feat: Fast-forward

@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c Ajirthan <ajirbala28@gmail.com> 1682713445 +0530	clone: from github.com:Colt/interactive-rebase-demo.git
+3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c 59e1742ffa19090ba5bed2db193f25bd974bc81d Ajirthan <ajirbala28@gmail.com> 1682714365 +0530	commit (amend): Create README.md
+59e1742ffa19090ba5bed2db193f25bd974bc81d 3843a393a8c3cbbaeee650e83303ae84912d5576 Ajirthan <ajirbala28@gmail.com> 1682714381 +0530	commit (amend): Create README.md
+3843a393a8c3cbbaeee650e83303ae84912d5576 f8fa523cdbe9185492c170028cf8c938abe4fbeb Ajirthan <ajirbala28@gmail.com> 1682714398 +0530	commit (amend): Create README.md
+f8fa523cdbe9185492c170028cf8c938abe4fbeb ef20b790d32a79a4112157b97815c425fb52598c Ajirthan <ajirbala28@gmail.com> 1682714478 +0530	commit (amend): Create README.md
+ef20b790d32a79a4112157b97815c425fb52598c 4b4d0357ef6d3fc3081e614a5277c2a094833292 Ajirthan <ajirbala28@gmail.com> 1682714885 +0530	rebase (finish): refs/heads/main onto 0e19c7ad4130d9edb45bf5e4d9f4cbdd233dcffc
+4b4d0357ef6d3fc3081e614a5277c2a094833292 ccc1896127274f6e053381e4ce030b7ba481853e Ajirthan <ajirbala28@gmail.com> 1682715043 +0530	rebase (finish): refs/heads/main onto 0e19c7ad4130d9edb45bf5e4d9f4cbdd233dcffc
+ccc1896127274f6e053381e4ce030b7ba481853e 8d761837f00f392ff91527777fd0a53795ac3950 Ajirthan <ajirbala28@gmail.com> 1682715616 +0530	rebase (finish): refs/heads/main onto 0e19c7ad4130d9edb45bf5e4d9f4cbdd233dcffc
+8d761837f00f392ff91527777fd0a53795ac3950 be40b10708e376ebba31e16041a48981b1c73513 Ajirthan <ajirbala28@gmail.com> 1682715769 +0530	rebase (finish): refs/heads/main onto 952523ca8dd914e21e4570097de355f78d1e7456
+be40b10708e376ebba31e16041a48981b1c73513 ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716033 +0530	pull: Merge made by the 'ort' strategy.
+ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d 3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c Ajirthan <ajirbala28@gmail.com> 1682716359 +0530	reset: moving to origin/main
+3b23c17ed71f2aecbaf8a1ac9749a97d73923f8c ca1cba8b6cd65f25e19c3cd09d4ede9e137a378d Ajirthan <ajirbala28@gmail.com> 1682716445 +0530	merge my-feat: Fast-forward
