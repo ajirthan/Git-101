@@ -1,0 +1,44 @@
+0000000000000000000000000000000000000000 30398b4957a735d0cc5a1a4875d744017c60bfaf Ajirthan <ajirbala28@gmail.com> 1682705647 +0530	commit (initial): initial commit
+30398b4957a735d0cc5a1a4875d744017c60bfaf 44dd6a13a2011ae74fd71d9ea92b8135671737bb Ajirthan <ajirbala28@gmail.com> 1682706909 +0530	commit: add navbar
+44dd6a13a2011ae74fd71d9ea92b8135671737bb 44dd6a13a2011ae74fd71d9ea92b8135671737bb Ajirthan <ajirbala28@gmail.com> 1682706935 +0530	checkout: moving from master to feat
+44dd6a13a2011ae74fd71d9ea92b8135671737bb 24a599f46495776c2517011de3125786657383c4 Ajirthan <ajirbala28@gmail.com> 1682706978 +0530	commit: begin feature
+24a599f46495776c2517011de3125786657383c4 da137ae583287f928ebf48501439fae2cfaf6388 Ajirthan <ajirbala28@gmail.com> 1682707298 +0530	commit: work on feature
+da137ae583287f928ebf48501439fae2cfaf6388 44dd6a13a2011ae74fd71d9ea92b8135671737bb Ajirthan <ajirbala28@gmail.com> 1682707358 +0530	checkout: moving from feat to master
+44dd6a13a2011ae74fd71d9ea92b8135671737bb 46aba2804ec39bfec44059af38ac09557022da4d Ajirthan <ajirbala28@gmail.com> 1682707366 +0530	commit: add footer
+46aba2804ec39bfec44059af38ac09557022da4d da137ae583287f928ebf48501439fae2cfaf6388 Ajirthan <ajirbala28@gmail.com> 1682708918 +0530	checkout: moving from master to feat
+da137ae583287f928ebf48501439fae2cfaf6388 fe967dab96e257d2aca699b8f0234b01670ae202 Ajirthan <ajirbala28@gmail.com> 1682708922 +0530	merge master: Merge made by the 'ort' strategy.
+fe967dab96e257d2aca699b8f0234b01670ae202 fe967dab96e257d2aca699b8f0234b01670ae202 Ajirthan <ajirbala28@gmail.com> 1682709018 +0530	checkout: moving from feat to feat
+fe967dab96e257d2aca699b8f0234b01670ae202 7a5a0df17b4dbe20e8300f2e1a7df4f95f8f64ff Ajirthan <ajirbala28@gmail.com> 1682709041 +0530	commit: more work on feat
+7a5a0df17b4dbe20e8300f2e1a7df4f95f8f64ff 46aba2804ec39bfec44059af38ac09557022da4d Ajirthan <ajirbala28@gmail.com> 1682709096 +0530	checkout: moving from feat to master
+46aba2804ec39bfec44059af38ac09557022da4d 7ce2c22fa6140dcd762a1190e51086936428af66 Ajirthan <ajirbala28@gmail.com> 1682709139 +0530	commit: add login form
+7ce2c22fa6140dcd762a1190e51086936428af66 7a5a0df17b4dbe20e8300f2e1a7df4f95f8f64ff Ajirthan <ajirbala28@gmail.com> 1682709169 +0530	checkout: moving from master to feat
+7a5a0df17b4dbe20e8300f2e1a7df4f95f8f64ff dc5b941d2e5ff602385e1032ff2720ca0c5e5485 Ajirthan <ajirbala28@gmail.com> 1682709173 +0530	merge master: Merge made by the 'ort' strategy.
+dc5b941d2e5ff602385e1032ff2720ca0c5e5485 7ce2c22fa6140dcd762a1190e51086936428af66 Ajirthan <ajirbala28@gmail.com> 1682710200 +0530	rebase (start): checkout master
+7ce2c22fa6140dcd762a1190e51086936428af66 f607399c2729a36a69c233dea4272b7cec66a0cd Ajirthan <ajirbala28@gmail.com> 1682710200 +0530	rebase (pick): begin feature
+f607399c2729a36a69c233dea4272b7cec66a0cd 84fb1cc86f486530ee61fac05bc19615f21e5bad Ajirthan <ajirbala28@gmail.com> 1682710200 +0530	rebase (pick): work on feature
+84fb1cc86f486530ee61fac05bc19615f21e5bad 88ca6244deca61e66a9719a7dc021276019649f9 Ajirthan <ajirbala28@gmail.com> 1682710200 +0530	rebase (pick): more work on feat
+88ca6244deca61e66a9719a7dc021276019649f9 88ca6244deca61e66a9719a7dc021276019649f9 Ajirthan <ajirbala28@gmail.com> 1682710200 +0530	rebase (finish): returning to refs/heads/feat
+88ca6244deca61e66a9719a7dc021276019649f9 7ce2c22fa6140dcd762a1190e51086936428af66 Ajirthan <ajirbala28@gmail.com> 1682710530 +0530	checkout: moving from feat to master
+7ce2c22fa6140dcd762a1190e51086936428af66 3431a6b4215e34b34c170047ccb80177e71cf691 Ajirthan <ajirbala28@gmail.com> 1682710630 +0530	commit: image gallery added
+3431a6b4215e34b34c170047ccb80177e71cf691 88ca6244deca61e66a9719a7dc021276019649f9 Ajirthan <ajirbala28@gmail.com> 1682710650 +0530	checkout: moving from master to feat
+88ca6244deca61e66a9719a7dc021276019649f9 3431a6b4215e34b34c170047ccb80177e71cf691 Ajirthan <ajirbala28@gmail.com> 1682710701 +0530	rebase (start): checkout master
+3431a6b4215e34b34c170047ccb80177e71cf691 836771e8a26c0254defb37dcebdea3cc870c9fe3 Ajirthan <ajirbala28@gmail.com> 1682710701 +0530	rebase (pick): begin feature
+836771e8a26c0254defb37dcebdea3cc870c9fe3 716025b9f849607034bc3ed50cc2ae48d70fbd86 Ajirthan <ajirbala28@gmail.com> 1682710701 +0530	rebase (pick): work on feature
+716025b9f849607034bc3ed50cc2ae48d70fbd86 01e97611029c61cc639a1726791441df6a7ce79e Ajirthan <ajirbala28@gmail.com> 1682710701 +0530	rebase (pick): more work on feat
+01e97611029c61cc639a1726791441df6a7ce79e 01e97611029c61cc639a1726791441df6a7ce79e Ajirthan <ajirbala28@gmail.com> 1682710701 +0530	rebase (finish): returning to refs/heads/feat
+01e97611029c61cc639a1726791441df6a7ce79e 7a5f51966e337ccf53265acadfe149ba212f1673 Ajirthan <ajirbala28@gmail.com> 1682711376 +0530	commit: update website on feat
+7a5f51966e337ccf53265acadfe149ba212f1673 3431a6b4215e34b34c170047ccb80177e71cf691 Ajirthan <ajirbala28@gmail.com> 1682711389 +0530	checkout: moving from feat to master
+3431a6b4215e34b34c170047ccb80177e71cf691 7a5f51966e337ccf53265acadfe149ba212f1673 Ajirthan <ajirbala28@gmail.com> 1682711399 +0530	checkout: moving from master to feat
+7a5f51966e337ccf53265acadfe149ba212f1673 3431a6b4215e34b34c170047ccb80177e71cf691 Ajirthan <ajirbala28@gmail.com> 1682711405 +0530	checkout: moving from feat to master
+3431a6b4215e34b34c170047ccb80177e71cf691 1f2e6cad7fb1c29d1cb92143aa4427e00ca1cb3c Ajirthan <ajirbala28@gmail.com> 1682711438 +0530	commit: update copy on master
+1f2e6cad7fb1c29d1cb92143aa4427e00ca1cb3c 7a5f51966e337ccf53265acadfe149ba212f1673 Ajirthan <ajirbala28@gmail.com> 1682711442 +0530	checkout: moving from master to feat
+7a5f51966e337ccf53265acadfe149ba212f1673 152c45db1ea9b578fa3c2c0d9bc5ea9097cc25a8 Ajirthan <ajirbala28@gmail.com> 1682711473 +0530	commit: more work on feat
+152c45db1ea9b578fa3c2c0d9bc5ea9097cc25a8 1f2e6cad7fb1c29d1cb92143aa4427e00ca1cb3c Ajirthan <ajirbala28@gmail.com> 1682711544 +0530	rebase (start): checkout master
+1f2e6cad7fb1c29d1cb92143aa4427e00ca1cb3c dd04af24688f3c9208c1d0401222a32c85ff89cf Ajirthan <ajirbala28@gmail.com> 1682711544 +0530	rebase (pick): begin feature
+dd04af24688f3c9208c1d0401222a32c85ff89cf e7c3fa7ad37198fac25ce008fca04b0aad7af174 Ajirthan <ajirbala28@gmail.com> 1682711544 +0530	rebase (pick): work on feature
+e7c3fa7ad37198fac25ce008fca04b0aad7af174 aa01ea5ed1a0cab72794d679200d93db9ed80955 Ajirthan <ajirbala28@gmail.com> 1682711544 +0530	rebase (pick): more work on feat
+aa01ea5ed1a0cab72794d679200d93db9ed80955 5ce922b2f48db802187df76d7cbe2dc841111fb8 Ajirthan <ajirbala28@gmail.com> 1682711834 +0530	rebase (continue): update website on feat
+5ce922b2f48db802187df76d7cbe2dc841111fb8 b6e5580d558ea2f601f9ebae160842c921ecdfe7 Ajirthan <ajirbala28@gmail.com> 1682711876 +0530	rebase (pick): more work on feat
+b6e5580d558ea2f601f9ebae160842c921ecdfe7 b6e5580d558ea2f601f9ebae160842c921ecdfe7 Ajirthan <ajirbala28@gmail.com> 1682711876 +0530	rebase (finish): returning to refs/heads/feat
+b6e5580d558ea2f601f9ebae160842c921ecdfe7 1f2e6cad7fb1c29d1cb92143aa4427e00ca1cb3c Ajirthan <ajirbala28@gmail.com> 1682711930 +0530	checkout: moving from feat to master
+1f2e6cad7fb1c29d1cb92143aa4427e00ca1cb3c b6e5580d558ea2f601f9ebae160842c921ecdfe7 Ajirthan <ajirbala28@gmail.com> 1682711952 +0530	checkout: moving from master to feat
