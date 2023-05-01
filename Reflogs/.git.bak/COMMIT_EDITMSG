@@ -1,0 +1,18 @@
+add list of flower seeds
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon May 1 16:01:06 2023 +0530
+#
+# interactive rebase in progress; onto 4f55fb0
+# Last commands done (3 commands done):
+#    pick c98681d add summer seeds
+#    reword 0f01270 add flowers file
+# Next command to do (1 remaining command):
+#    fixup a510627 add some zinnias
+# You are currently editing a commit while rebasing branch 'flowers' on '4f55fb0'.
+#
+# Changes to be committed:
+#	new file:   flowers.txt
+#
